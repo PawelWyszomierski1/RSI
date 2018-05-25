@@ -1,1 +1,1 @@
-# RSI
+# Rozproszone systemy informatyczn
